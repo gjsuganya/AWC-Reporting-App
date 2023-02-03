@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Expense_Processing_Team_Expense_Report</fullName>
+    <filterScope>Queue</filterScope>
+    <label>Expense Processing Team</label>
+    <queue>Expense_Processing_Team</queue>
+    <sharedTo>
+        <allInternalUsers></allInternalUsers>
+    </sharedTo>
+</ListView>
